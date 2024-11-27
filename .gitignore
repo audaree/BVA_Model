@@ -1,0 +1,9 @@
+# Exclude data files
+Model_Data/
+Plots/
+Retired/
+Training_data/
+*.png
+*.mp4
+*.JLD2
+*.txt
